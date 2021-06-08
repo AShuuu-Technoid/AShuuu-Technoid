@@ -1,6 +1,6 @@
 # Welcome To My World! 👋
 [![https://t.me/AShuuu_me](https://img.shields.io/badge/Telegram-Ashwin-blue)](https://t.me/AShuuu_me)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/darkshadee/)](https://github.com/darkshadee)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AShuuu-Technoid/)](https://github.com/AShuuu-Technoid)
 
 Hosted Site Name | Status
 --- | ---
@@ -16,9 +16,9 @@ Q | A
 
  ‏‏‎ ‎| ‏‏‎ ‎
  --- | ---
-[![Ashwin's github stats](https://github-readme-stats.vercel.app/api?username=darkshadee&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/Darkshadee) | [![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=darkshadee&theme=radical&layout=compact)](https://github.com/Darkshadee)
+[![Ashwin's github stats](https://github-readme-stats.vercel.app/api?username=AShuuu-Technoid&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/AShuuu-Technoid) | [![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AShuuu-Technoid&theme=radical&layout=compact)](https://github.com/AShuuu-Technoid)
 
-[![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=darkshadee)](https://github.com/Darkshadee)
+[![streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=AShuuu-Technoid)](https://github.com/AShuuu-Technoid)
 
 
 ## Want To Know About Me ?
